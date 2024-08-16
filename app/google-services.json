@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "163620983732",
+    "firebase_url": "https://bandungcreative-abc0d-default-rtdb.firebaseio.com",
+    "project_id": "bandungcreative-abc0d",
+    "storage_bucket": "bandungcreative-abc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163620983732:android:3066f76932dfa36615d8e1",
+        "android_client_info": {
+          "package_name": "com.example.bandungcreative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Wx3XsfxTw4dssYc1iYM4tiLk5CIeG3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
